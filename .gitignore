@@ -1,4 +1,6 @@
 .DS_Store
 backend/.env
-frontend/.env
+Frontend/.env
 readmegenerate.txt
+Backend/node_modules
+Frontend/node_modules
